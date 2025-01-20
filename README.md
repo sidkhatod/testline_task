@@ -19,3 +19,30 @@ Install the following Python libraries:
 
 ```bash
 pip install pandas matplotlib seaborn
+```
+# Quiz Data Analysis
+
+This repository contains a solution for analyzing user performance across multiple quizzes. The analysis uses historical performance data, current quiz submission data, and quiz metadata to generate insights into user strengths, weaknesses, and overall performance.
+
+## Data Files
+
+The solution processes the following input files:
+
+- **API Data**: Performance data from the last 5 quizzes for each user.
+- **Quiz Submission Data**: Details of a user's latest quiz submission.
+- **Quiz Metadata**: Schema containing topics and metadata for quizzes.
+
+Ensure the following data files are placed in the root directory of the project:
+
+- `api_endpoint.json`
+- `quiz_submission_data.json`
+- `quiz_endpoint.json`
+
+## Setup Instructions
+
+### Clone the repository:
+
+```bash
+git clone <repository_url>
+cd <repository_name>
+
