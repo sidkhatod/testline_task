@@ -64,7 +64,7 @@ The analysis is structured into blocks for use in a Jupyter Notebook:
 
 4. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook analysis.ipynb
+   jupyter notebook testline.ipynb
    ```
 
 5. Follow the blocks in the notebook to process the data, generate insights, and visualize results.
@@ -96,4 +96,3 @@ The analysis is structured into blocks for use in a Jupyter Notebook:
 
 ---
 
-For any issues or questions, please contact [Your Email/Support Link].
