@@ -1,5 +1,3 @@
-# README
-
 ## Project: Personalized Quiz Analysis and Recommendations
 
 ### Overview
