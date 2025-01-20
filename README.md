@@ -51,8 +51,8 @@ The analysis is structured into blocks for use in a Jupyter Notebook:
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/sidkhatod/testline_task>
+   cd <testline_task>
    ```
 
 2. Install dependencies:
