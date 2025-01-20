@@ -95,4 +95,12 @@ The analysis is structured into blocks for use in a Jupyter Notebook:
 - Seaborn
 
 ---
+![image](https://github.com/user-attachments/assets/5bf963a5-c73b-4905-81c9-dffe4c2b5604)
+![image](https://github.com/user-attachments/assets/d5f6f0f4-2449-4551-9a75-dc86dd40859b)
+![image](https://github.com/user-attachments/assets/dd747a93-6cf1-46b4-a26b-8eb26de2bfb5)
+![image](https://github.com/user-attachments/assets/715de674-3930-4a48-ba65-2ed8407e3bef)
+![image](https://github.com/user-attachments/assets/d02b5306-8fa4-4baf-8b67-832853ccbd44)
+
+
+
 
